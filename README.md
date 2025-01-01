@@ -1,7 +1,7 @@
 # MySQL 고객 및 제품 데이터 분석
 
 ## 1. 프로젝트 개요 
-<img src="https://github.com/user-attachments/assets/38d9fd0e-e166-4e7d-87ce-4f69a221060c" width="800" height="400"/>
+<img src="https://github.com/user-attachments/assets/38d9fd0e-e166-4e7d-87ce-4f69a221060c" width="800" height="500"/>
 
 [MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) 분석 프로젝트 입니다.
 
