@@ -3,8 +3,7 @@
 ## 1. 프로젝트 개요 
 <img src="https://github.com/user-attachments/assets/38d9fd0e-e166-4e7d-87ce-4f69a221060c" width="700" height="500"/>
  <br>
-[MySQL의 Classicmodels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) 
-활용한 고객 및 제품 데이터 분석 프로젝트입니다. 
+[MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) 분석 프로젝트 입니다.
 
 이 데이터베이스는 실제 제조업에서 사용하는 데이터베이스 형식을 기반으로 하며, 고객, 주문, 재고, 판매현황, 임직원 등의 정보를 포함하고 있습니다.
 Python의 mysql.connector 라이브러리를 사용하여 데이터베이스에 직접 연결하고 SQL 쿼리를 실행하여 데이터를 추출한 후, 이를 활용해 10가지 분석 문제를 해결합니다. <br>
@@ -12,7 +11,7 @@ Python의 mysql.connector 라이브러리를 사용하여 데이터베이스에 
 
 
 ## 2. 데이터 설명 
-- 데이터 출처 : 
+- 데이터 출처 : [MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
 - 데이터 상세 : 8개 테이블과 59개의 칼럼
   - `customers`: 고객 데이터. 고객 번호, 고객 이름, 연락처 정보 등.
   - `orders`: 주문 데이터. 주문 번호, 주문 날짜, 배송 날짜, 주문 상태 등.
