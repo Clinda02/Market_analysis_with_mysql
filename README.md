@@ -1,8 +1,8 @@
 # MySQL 고객 및 제품 데이터 분석
 
 ## 1. 프로젝트 개요 
-<img src="https://github.com/user-attachments/assets/38d9fd0e-e166-4e7d-87ce-4f69a221060c" width="700" height="500"/>
- <br>
+<img src="https://github.com/user-attachments/assets/38d9fd0e-e166-4e7d-87ce-4f69a221060c" width="800" height="400"/>
+
 [MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) 분석 프로젝트 입니다.
 
 이 데이터베이스는 실제 제조업에서 사용하는 데이터베이스 형식을 기반으로 하며, 고객, 주문, 재고, 판매현황, 임직원 등의 정보를 포함하고 있습니다.
