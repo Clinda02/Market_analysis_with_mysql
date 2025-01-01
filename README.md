@@ -20,8 +20,8 @@
   - `payments`: 고객의 지불 데이터. 지불 방식, 지불 날짜, 금액 등.
 
 ## 3. 분석 과정
-1) Vip 고객 식별
-2) 고객 충성도 분석과 시각화 
+1) [Vip 고객 식별](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/1_vip_customer_segmentation.ipynb)
+2) [고객 충성도 분석과 시각화](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/2_customer_loyalty_analysis.ipynb)
 3) 고객 세분화 및 타겟 마케팅
 4) 지역별 매출 분석과 시각화
 5) 제품 카테고리 별 매출 분석
