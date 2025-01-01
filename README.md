@@ -3,10 +3,7 @@
 ## 1. 프로젝트 개요 
 <img src="https://github.com/user-attachments/assets/e7c4bcfc-4c35-4ff4-af33-e3bc9d4cb49f" width="600" height="400"/>
 
-[MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) 분석 프로젝트 입니다.
-
-실제 제조업에서 사용하는 데이터베이스 형식을 기반으로, 고객, 주문, 재고, 판매현황, 임직원 등의 정보를 포함하고 있습니다.
-Python의 mysql.connector 라이브러리를 사용하여 데이터베이스에 직접 연결하고 SQL 쿼리를 실행하여 데이터를 추출한 후, 이를 활용해 10가지 분석 문제를 해결합니다. <br>
+[MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) 분석 프로젝트 입니다. 실제 제조업에서 사용하는 데이터베이스 형식을 기반으로, 고객, 주문, 재고, 판매현황, 임직원 등의 정보를 포함하고 있습니다. Python의 mysql.connector 라이브러리를 사용하여 데이터베이스에 직접 연결하고 SQL 쿼리를 실행하여 데이터를 추출한 후, 이를 활용해 10가지 분석 문제를 해결합니다.  
 이 프로젝트의 목표는 고객 및 제품 데이터를 체계적으로 분석하여 매출 증대와 고객 맞춤형 마케팅 전략, 재고 최적화 방안 등을 제안하는 것입니다
 
 
