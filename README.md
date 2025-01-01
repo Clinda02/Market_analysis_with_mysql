@@ -21,15 +21,15 @@
 
 ## 3. 분석 과정
 1) Vip 고객 식별 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/1_vip_customer_segmentation.ipynb)
-2) 고객 충성도 분석과 시각화 - [바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/2_customer_loyalty_analysis.ipynb)
-3) 고객 세분화 및 타겟 마케팅 _ [바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/3_top_purchased_products_analysis.ipynb)
-4) 지역별 매출 분석과 시각화
-5) 제품 카테고리 별 매출 분석
-6) 가장 잘 팔리는 제품 분석
-7) 제품군 별 연도별 매출 추세 분석
-8) 재고 최적화 분석
-9) 이익 마진 분석 
-10) 시즌별 판매 분석
+2) 고객 충성도 분석과 시각화 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/2_customer_loyalty_analysis.ipynb)
+3) 고객 세분화 및 타겟 마케팅 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/3_top_purchased_products_analysis.ipynb)
+4) 지역별 매출 분석과 시각화 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/4_regional_sales_analysis.ipynb)
+5) 제품 카테고리 별 매출 분석 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/5_product_category_analysis.ipynb)
+6) 가장 잘 팔리는 제품 분석 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/6_product_year_sales_trend_analysis.ipynb)
+7) 제품군 별 연도별 매출 추세 분석 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/7_inventory_optimization.ipynb)
+8) 재고 최적화 분석 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/8_profit_margin_analysis.ipynb)
+9) 이익 마진 분석  : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/9_customer_segmentation_targeting.ipynb)
+10) 시즌별 판매 분석 : [코드 바로가기](https://github.com/Clinda02/market_analysis_with_mysql/blob/main/10_seasonal_sales_analysis.ipynb)
 
 ## 4. 필요 라이브러리 
 * mysql.connector
