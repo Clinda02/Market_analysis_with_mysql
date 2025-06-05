@@ -9,6 +9,7 @@
 
 ## 2. 데이터 설명 
 - 데이터 출처 : [MySQL의 ClassicModels 샘플 데이터베이스](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
+- 데이터 수집기간 : 2003-01-16 ~ 2005-06-09
 - 데이터 상세 : 8개 테이블과 59개의 칼럼
   - `customers`: 고객 데이터. 고객 번호, 고객 이름, 연락처 정보 등.
   - `orders`: 주문 데이터. 주문 번호, 주문 날짜, 배송 날짜, 주문 상태 등.
